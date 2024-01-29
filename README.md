@@ -11,12 +11,13 @@ It's really easy to use.
 
 1. You should have your `Images` folder prepared in the current directory where the Python script exist. Example, if the Python script exist in `source/app`, then the `Images` folder and the `run.pyw (the python script)` should exist in that directory.
 
-2. Your `Images` folder should have an equivalent character with it's image. And each should have this `_[character].png`, example `_B.png`
+2. Your `Images` folder should have an equivalent character with it's image. And each should have this `_[character].png`, example `_B.png`. And, if you want to use a different one, you can use the one that I prepared called `Images.alt`, to use it simply remove the `.alt` :D.
+**IMPORTANT:** DO NOT RENAME THE `Images` FOLDER. OR ELSE IT WILL NOT WORK. SINCE THE PYTHON SCRIPT ONLY RECOGNIZE THE `Images` FOLDER.
 
-3. If these 2 steps are complete, you can start off by run the `run.pyw`. It should be like this.
+4. If these 2 steps are complete, you can start off by run the `run.pyw`. It should be like this.
 ![Sorry :(](./assets/Thumb.png)
 
-4. If you're done, then nice! You can start by typing random things, and eventually the program will convert it for you. Incase you're still reading this, you can actually configure the paper's width & height, character's spacing, and etc.
+5. If you're done, then nice! You can start by typing random things, and eventually the program will convert it for you. Incase you're still reading this, you can actually configure the paper's width & height, character's spacing, and etc.
 ![Sorry :(](./assets/VariablesThumb.png)
 
 Each variables represent below:
