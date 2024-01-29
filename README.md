@@ -1,6 +1,6 @@
 # Python Text2Image transformer 🧙‍♂️
 Hello! This is a silly project made by mine! What this Python script does is simply convert an equivalent character and an image, combining them and turning them into a complete image! *ok maybe i explain it too badly, but I'll show you how.*
-![Sorry :(](./assets/VideoThumb.mp4)
+![Sorry :(](./assets/VideoThumb.gif)
 
 ## ⁉ What's Inside?
 - **Images:** This is where each character are being represente as it's image. Example, the character 'A' may looks like an image with a snake! Btw, this is configurable! As soon as it started with '_' and the character '_A' and it is an image format.
