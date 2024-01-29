@@ -53,5 +53,5 @@ cd source
 
 5. **Run run.pyw:**
 ```bash
-python run,pyw
+python run.pyw
 ```
