@@ -1,11 +1,11 @@
-# Python Text2Image transformer 🧙‍♂️
+# Python Glyph2Text transformer 🧙‍♂️
 Hello! This is a silly project made by mine! What this Python script does is simply convert an equivalent character and an image, combining them and turning them into a complete image! *ok maybe i explain it too badly, but I'll show you how.*
 ![Sorry :(](./assets/VideoThumb.gif)
 
 ## ⁉ What's Inside?
 - **Images:** This is where each character are being represente as it's image. Example, the character 'A' may looks like an image with a snake! Btw, this is configurable! As soon as it started with '_' and the character '_A' and it is an image format.
 
-- **Text2Image transformer:** This one is the script where the text will be transformed to an Image. 
+- **Glyph2Text transformer:** This one is the script where the text will be transformed to an Image. 
 
 ## 🚀 How to Use?
 It's really easy to use. 
@@ -35,12 +35,12 @@ Paper background: hexadecimal = The color of the paper's background (default: #f
 ## 📜 Instructions:
 1. **Clone the repository:**
 ```bash
-git clone https://github.com/DaemonPooling/Text2Image-transformer.git
+git clone https://github.com/DaemonPooling/Glyph2Text-transformer.git
 ```
 
 2. **Navigate to the Project Folder:**
 ```bash
-cd Text2Image-transformer
+cd Glyph2Text-transformer
 ```
 
 3. **Install Dependencies:**
