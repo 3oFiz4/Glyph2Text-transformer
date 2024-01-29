@@ -57,3 +57,7 @@ cd source
 ```bash
 python run.pyw
 ```
+
+## 🧠 Credit
+1. [@00face](https://github.com/00face), for name suggestion.
+![image](https://github.com/DaemonPooling/Glyph2Text-transformer/assets/157283533/1472ae5c-545e-4a19-bc18-6f70b0bb8bb1)
