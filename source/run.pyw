@@ -59,7 +59,7 @@ Bg3 = '#404249'
 
 # Main window
 root = Tk()
-root.title("Text2Image Transformer")
+root.title("Glyph2Text Transformer")
 root.configure(bg=Bg)
 
 # This is a font-family, and it's styles that it will be used in the Entry widgets.
